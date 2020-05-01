@@ -1,6 +1,7 @@
 # PDFtoImage
 #Install wand Library using this command 
-pip install wand
+
+#pip install wand
 
 #Install these two application ImageMagic and GhostScript from given links:
 
